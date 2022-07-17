@@ -32,8 +32,13 @@ Worst Case : [22,27,16,6,18,2]
 
 # 4- 18 Sayısı hangi Case?
 Dizi sıralanınca [2,6,16,18,22,27] bu sıraya gelir. Bu durumda 18 sayısı ortadaki iki sayıdan biridir. 18 sayısını orta olarak kabul edersek, 18 sayısının durumu Average Case kapsamına girer.
+
 # 5- [7,3,5,8,2,9,4,15,6] Dizisinin İlk 4 Adımı
+
 [2|,3,5,8,7,9,4,15,6] -- 1.adım
+
 [2,3|,5,8,7,9,4,15,6] -- 2.adım
+
 [2,3,4|,8,7,9,5,15,6] -- 3.adım
+
 [2,3,4,5|,7,9,8,15,6] -- 4.adım
