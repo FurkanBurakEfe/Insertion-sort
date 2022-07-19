@@ -42,3 +42,6 @@ Dizi sıralanınca [2,6,16,18,22,27] bu sıraya gelir. Bu durumda 18 sayısı or
 [2,3,4|,8,7,9,5,15,6] -- 3.adım
 
 [2,3,4,5|,7,9,8,15,6] -- 4.adım
+
+
+www.patika.dev
